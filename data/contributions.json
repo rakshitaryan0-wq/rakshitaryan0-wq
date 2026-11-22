@@ -1,43 +1,8 @@
 {
  "username": "rakshitaryan0-wq",
- "fetched_at": "2026-11-21T14:41:25.424148+00:00",
+ "fetched_at": "2026-11-22T14:37:46.613108+00:00",
  "sample": false,
  "days": [
-  {
-   "date": "2025-11-16",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-17",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-18",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-19",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-20",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-21",
-   "count": 0,
-   "level": 0
-  },
-  {
-   "date": "2025-11-22",
-   "count": 0,
-   "level": 0
-  },
   {
    "date": "2025-11-23",
    "count": 0,
@@ -1855,19 +1820,24 @@
   },
   {
    "date": "2026-11-21",
+   "count": 1,
+   "level": 1
+  },
+  {
+   "date": "2026-11-22",
    "count": 0,
    "level": 0
   }
  ],
  "stats": {
-  "total": 299,
+  "total": 300,
   "best_day": {
    "date": "2026-10-01",
    "count": 20,
    "level": 4
   },
-  "current_streak": 111,
-  "longest_streak": 111,
+  "current_streak": 112,
+  "longest_streak": 112,
   "monthly": {
    "2025-11": 0,
    "2025-12": 0,
@@ -1881,7 +1851,7 @@
    "2026-08": 48,
    "2026-09": 39,
    "2026-10": 68,
-   "2026-11": 20
+   "2026-11": 21
   }
  }
 }
